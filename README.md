@@ -2,7 +2,9 @@
 
 Neste repositório Contém os projetos iniciais do curso de l+ogica de progreamação Blue (prof. Thiago).
 
-```Projeto 01 - Projeto detetive, o jogo consiste em efetuar 5 perguntas ha uma testemunha e de acordo com as resposta ele pode se tornar desde cúmplice ao principal suspeito.```
+```
+Projeto 01 - Projeto detetive, o jogo consiste em efetuar 5 perguntas ha uma testemunha e de acordo com as resposta ele pode se tornar desde cúmplice ao principal suspeito.
+```
 
 Projeto 02 - Jogo de Jokenpô - O usuário jogará contra o computador. Neste jogo o usuário define quantas rodadas deseja jogar e assim ele jogará contra o computador. Ao final será declarado vencedor quem vencer o maior número de rodadas.
 
